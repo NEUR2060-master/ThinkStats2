@@ -52,7 +52,7 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
-*.pdf
+#*.pdf
 *.eps
 *.png
 *~
